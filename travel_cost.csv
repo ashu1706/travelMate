@@ -1,0 +1,50 @@
+location,season,travelers,preference,accommodation_type,activities,total_cost
+Goa,Winter,2,Luxury,Hotel,Sightseeing,15000
+Manali,Summer,3,Budget,Guesthouse,Trekking,8000
+Rishikesh,Monsoon,4,Backpacking,Hostel,Adventure,12000
+Kerala,Winter,2,Luxury,Resort,Beach,25000
+Jaipur,Summer,1,Budget,Guesthouse,Cultural Tour,6000
+Ladakh,Winter,3,Luxury,Hotel,Adventure,22000
+Rajasthan,Autumn,2,Luxury,Resort,Sightseeing,18000
+Mysore,Spring,4,Budget,Guesthouse,Cultural Tour,7000
+Alleppey,Winter,2,Luxury,Houseboat,Backwater,35000
+Coorg,Summer,3,Backpacking,Hostel,Trekking,10000
+Agra,Winter,1,Luxury,Hotel,Sightseeing,12000
+Darjeeling,Summer,2,Backpacking,Hostel,Trekking,9500
+Udaipur,Summer,2,Luxury,Resort,Cultural Tour,16000
+Ooty,Winter,4,Budget,Guesthouse,Sightseeing,8000
+Goa,Summer,2,Luxury,Hotel,Beach,17000
+Manali,Summer,1,Budget,Guesthouse,Trekking,6000
+Sikkim,Autumn,3,Backpacking,Hostel,Trekking,11000
+Andaman,Summer,2,Luxury,Resort,Beach,25000
+Kashmir,Winter,4,Luxury,Hotel,Sightseeing,30000
+Rishikesh,Summer,2,Backpacking,Hostel,Adventure,8000
+Ladakh,Monsoon,2,Luxury,Hotel,Adventure,24000
+Alleppey,Autumn,2,Backpacking,Hostel,Backwater,9000
+Mysore,Winter,3,Budget,Guesthouse,Cultural Tour,7500
+Agra,Autumn,2,Luxury,Hotel,Sightseeing,13000
+Coorg,Summer,4,Backpacking,Hostel,Trekking,10000
+Ooty,Summer,2,Luxury,Resort,Sightseeing,15000
+Darjeeling,Winter,1,Backpacking,Hostel,Trekking,8000
+Goa,Autumn,2,Luxury,Hotel,Beach,19000
+Sikkim,Summer,4,Backpacking,Hostel,Trekking,10500
+Udaipur,Winter,2,Luxury,Resort,Cultural Tour,17500
+Alleppey,Summer,3,Backpacking,Guesthouse,Backwater,12000
+Jaipur,Winter,2,Luxury,Hotel,Sightseeing,14000
+Kashmir,Spring,2,Luxury,Hotel,Sightseeing,22000
+Ladakh,Summer,1,Budget,Guesthouse,Adventure,8500
+Kerala,Monsoon,2,Backpacking,Hostel,Beach,8000
+Mysore,Summer,2,Luxury,Resort,Cultural Tour,16000
+Ooty,Spring,2,Budget,Guesthouse,Sightseeing,7000
+Darjeeling,Autumn,3,Backpacking,Hostel,Trekking,11500
+Goa,Summer,4,Budget,Guesthouse,Beach,10000
+Manali,Winter,3,Luxury,Hotel,Trekking,18000
+Sikkim,Winter,2,Backpacking,Hostel,Trekking,9500
+Udaipur,Summer,3,Luxury,Resort,Cultural Tour,20000
+Agra,Winter,3,Luxury,Hotel,Sightseeing,16000
+Alleppey,Spring,2,Backpacking,Hostel,Backwater,8500
+Kerala,Autumn,2,Luxury,Houseboat,Beach,27000
+Jaipur,Summer,1,Budget,Guesthouse,Cultural Tour,5500
+Coorg,Winter,3,Luxury,Resort,Trekking,22000
+Rishikesh,Spring,2,Luxury,Hotel,Adventure,19000
+Ladakh,Summer,4,Budget,Guesthouse,Adventure,11000
